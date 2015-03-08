@@ -1,14 +1,15 @@
 /*
   Autor: Javier Sanchez
-  e-mail: jsgarri.89@gmail.com
+  
   
   Fecha creación: 08/03/2015
   Fecha modificacion:--/--/----
-  Descripcion del programa
+  Descripcion del programa:
   Programa prueba para ver funcionamiento Ubidots 
   leemos temperatura del DS18b20 
   consumo placa a 6,65v 194,6/196,1mA
-  consumo placa a 3,9v
+  Plublicado en:  
+  http://app.ubidots.com/ubi/getchart/page/sBUoaRxrE68FrTv7sEvkH5RmNSU 
 
     */
 
@@ -21,7 +22,8 @@
     #define ONE_WIRE_BUS 6
    // Enter a MAC address for your controller below.
    // Newer Ethernet shields have a MAC address printed on a sticker on the shield
-   byte mac[] = {  0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED }; //damos la mac que queramos 
+   byte mac[] = {  0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED }; 
+   //damos la mac que queramos diferente a cualquiera que tengamos en el router 
 
 
    // Initialize the Ethernet client library

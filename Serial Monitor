@@ -1,0 +1,1540 @@
+connecting...
+connecting...
+float: 20.44
+int: 20
+decimales: 43
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.43}
+
+*************************
+float: 20.44
+int: 20
+decimales: 43
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.43}
+
+*************************
+float: 20.31
+int: 20
+decimales: 31
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.31}
+
+*************************
+float: 20.31
+int: 20
+decimales: 31
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.31}
+
+*************************
+float: 20.31
+int: 20
+decimales: 31
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.31}
+
+*************************
+float: 20.25
+int: 20
+decimales: 25
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.25}
+
+*************************
+float: 20.25
+int: 20
+decimales: 25
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.25}
+
+*************************
+float: 20.25
+int: 20
+decimales: 25
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.25}
+
+*************************
+float: 20.25
+int: 20
+decimales: 25
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.25}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.06
+int: 20
+decimales: 6
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 14
+
+{"value":20.6}
+
+*************************
+float: 20.00
+int: 20
+decimales: 0
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 14
+
+{"value":20.0}
+
+*************************
+float: 20.00
+int: 20
+decimales: 0
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 14
+
+{"value":20.0}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.81
+int: 19
+decimales: 81
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.81}
+
+*************************
+float: 19.75
+int: 19
+decimales: 75
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.75}
+
+*************************
+float: 19.75
+int: 19
+decimales: 75
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.75}
+
+*************************
+float: 19.75
+int: 19
+decimales: 75
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.75}
+
+*************************
+float: 19.75
+int: 19
+decimales: 75
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.75}
+
+*************************
+float: 19.69
+int: 19
+decimales: 68
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.68}
+
+*************************
+float: 19.69
+int: 19
+decimales: 68
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.68}
+
+*************************
+float: 19.75
+int: 19
+decimales: 75
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.75}
+
+*************************
+float: 19.81
+int: 19
+decimales: 81
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.81}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 20.00
+int: 20
+decimales: 0
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 14
+
+{"value":20.0}
+
+*************************
+float: 20.00
+int: 20
+decimales: 0
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 14
+
+{"value":20.0}
+
+*************************
+float: 20.00
+int: 20
+decimales: 0
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 14
+
+{"value":20.0}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+connecting...
+connecting...
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.81
+int: 19
+decimales: 81
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.81}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.81
+int: 19
+decimales: 81
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.81}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.81
+int: 19
+decimales: 81
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.81}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.87
+int: 19
+decimales: 87
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.87}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 19.94
+int: 19
+decimales: 93
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":19.93}
+
+*************************
+float: 20.00
+int: 20
+decimales: 0
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 14
+
+{"value":20.0}
+
+*************************
+float: 20.00
+int: 20
+decimales: 0
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 14
+
+{"value":20.0}
+
+*************************
+float: 20.06
+int: 20
+decimales: 6
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 14
+
+{"value":20.6}
+
+*************************
+float: 20.06
+int: 20
+decimales: 6
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 14
+
+{"value":20.6}
+
+*************************
+float: 20.12
+int: 20
+decimales: 12
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.12}
+
+*************************
+float: 20.12
+int: 20
+decimales: 12
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.12}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.19
+int: 20
+decimales: 18
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.18}
+
+*************************
+float: 20.25
+int: 20
+decimales: 25
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.25}
+
+*************************
+float: 20.25
+int: 20
+decimales: 25
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.25}
+
+*************************
+float: 20.25
+int: 20
+decimales: 25
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.25}
+
+*************************
+float: 20.31
+int: 20
+decimales: 31
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.31}
+
+*************************
+float: 20.31
+int: 20
+decimales: 31
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.31}
+
+*************************
+float: 20.31
+int: 20
+decimales: 31
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.31}
+
+*************************
+float: 20.37
+int: 20
+decimales: 37
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.37}
+
+*************************
+float: 20.37
+int: 20
+decimales: 37
+connected
+*************************
+Send To Ubidots:
+
+POST /api/v1.6/variables/54fc8dde7625423dfdd1036f/values HTTP/1.1
+Host: things.ubidots.com
+Content-Type: application/json
+X-Auth-Token: 091WDLNwsrb6lh32A5h4pRxe5e1oSe
+Content-Length: 15
+
+{"value":20.37}
+
+*************************
