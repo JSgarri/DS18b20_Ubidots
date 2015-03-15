@@ -75,7 +75,8 @@
      Serial.println(decimales);
      save_value(String(entero),String (decimales));   //llamo a la funcion que los envia por ethernet
    //  save_value(String (temp));
-    for(byte i=0;i<10;i++)LowPower.powerDown(SLEEP_8S,ADC_OFF, BOD_OFF);
+    for(byte i=0;i<37;i++)LowPower.powerDown(SLEEP_8S,ADC_OFF, BOD_OFF);
+    //despertamos cada 5 minutos aprox 
  }
 
 
