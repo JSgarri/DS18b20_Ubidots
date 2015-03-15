@@ -3,11 +3,14 @@
   
   
   Fecha creación: 08/03/2015
-  Fecha modificacion:--/--/----
+  Fecha modificacion:15/03/2015
   Descripcion del programa:
   Programa prueba para ver funcionamiento Ubidots 
   leemos temperatura del DS18b20 
   consumo placa a 6,65v 194,6/196,1mA
+  ********
+  A falta de probar con low power
+  ********
   Plublicado en:  
   http://app.ubidots.com/ubi/getchart/page/sBUoaRxrE68FrTv7sEvkH5RmNSU 
 
@@ -17,6 +20,7 @@
     #include <Ethernet.h>
     #include <OneWire.h>
     #include <DallasTemperature.h>
+    #include "LowPower.h"
 
 
     #define ONE_WIRE_BUS 6
@@ -71,7 +75,7 @@
      Serial.println(decimales);
      save_value(String(entero),String (decimales));   //llamo a la funcion que los envia por ethernet
    //  save_value(String (temp));
-    delay(58500); // aprox cada 1minuto
+    for(byte i=0;i<10;i++)LowPower.powerDown(SLEEP_8S,ADC_OFF, BOD_OFF);
  }
 
 
