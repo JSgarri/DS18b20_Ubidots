@@ -9,7 +9,7 @@
   leemos temperatura del DS18b20 
   consumo placa a 6,65v 194,6/196,1mA
   ********
-  A falta de probar con low power
+  A falta de probar consumos con low power
   ********
   Plublicado en:  
   http://app.ubidots.com/ubi/getchart/page/sBUoaRxrE68FrTv7sEvkH5RmNSU 
@@ -26,7 +26,7 @@
     #define ONE_WIRE_BUS 6
    // Enter a MAC address for your controller below.
    // Newer Ethernet shields have a MAC address printed on a sticker on the shield
-   byte mac[] = {  0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED }; 
+   byte mac[] = {  0xDE, 0xAD, 0xBE, 0xFA, 0xBA, 0xDA }; 
    //damos la mac que queramos diferente a cualquiera que tengamos en el router 
 
 
