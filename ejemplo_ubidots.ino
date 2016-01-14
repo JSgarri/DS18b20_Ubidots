@@ -35,8 +35,8 @@
    // that you want to connect to (port 80 is default for HTTP):
    EthernetClient client;
 
-   String idvariable = "54fc8dde7625423dfdd1036f";      //token de la variable
-   String token = "091WDLNwsrb6lh32A5h4pRxe5e1oSe";     //shortToken del usuario
+   String idvariable = "id-Token";      //token de la variable
+   String token = "yourToken";     //shortToken del usuario
    OneWire oneWire (ONE_WIRE_BUS);
    DallasTemperature sensors (&oneWire);
 
